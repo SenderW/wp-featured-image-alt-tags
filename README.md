@@ -1,0 +1,1 @@
+# wp-featured-image-alt-tags
